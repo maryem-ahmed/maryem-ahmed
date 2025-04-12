@@ -12,5 +12,5 @@
 `Python` • `SQL` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `MySQL`
 
 ### 📫 How to reach me
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/maryem-ahmed-/))
+- [LinkedIn] https://www.linkedin.com](https://www.linkedin.com/in/maryem-ahmed-/
 - Email: maryemahmed707@gmail.com
