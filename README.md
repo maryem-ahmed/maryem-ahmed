@@ -1,16 +1,16 @@
-## Hi there 👋
+# A curious mind, diving deep into data and uncovering stories that drive change.
 
-<!--
-**maryem-ahmed/maryem-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Data Scientist | Creative Thinker | Lifelong Learner  
+💡 Passionate about turning raw data into meaningful insights
 
-Here are some ideas to get you started:
+###  Currently Learning
+- Advanced Exploratory Data Analysis
+- Machine Learning & Model Evaluation
+- Effective Data Storytelling with Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tools & Languages
+`Python` • `SQL` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `MySQL`
+
+### 📫 How to reach me
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/maryem-ahmed-/))
+- Email: maryemahmed707@gmail.com
