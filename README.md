@@ -72,31 +72,6 @@ I'm a Computer Science student specializing in **Artificial Intelligence** and *
 ---
 
 
-##  Professional Experience
-
-**AI & Data Science - Generative AI Professional** @ Digital Egypt Pioneers Initiative (DEPI)  
-*Nov 2024 - Present*
-- Developing expertise in Generative AI, LLMs, and prompt engineering
-- Building deep learning solutions with TensorFlow, Keras, and PyTorch
-- Applying MLOps practices for production deployment
-- Working with NLP and speech technologies (TTS, STT)
-
----
-
-##  Current Focus
-
-```python
-current_goals = {
-    "learning": ["Large Language Models", "Transformers", "Azure AI Services"],
-    "building": ["GenAI Applications", "Computer Vision Projects", "MLOps Pipelines"],
-    "reading": ["Deep Learning Papers", "AI Research", "MLOps Best Practices"],
-    "exploring": ["Graph Neural Networks", "Reinforcement Learning", "Cloud AI Platforms"]
-}
-```
-
----
-
-
 
 <div align="center">
   
